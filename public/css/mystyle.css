@@ -1,0 +1,25 @@
+body{
+	background-color: #fdd;
+}
+
+table{
+	border: solid 2px indigo;
+}
+
+thead{
+	background-color: #fdd;
+}
+
+tbody{
+	background-color: #ddd;
+}
+
+ .fa-edit{
+	font-size: 3em;
+	color:green;
+}
+
+.fa-trash-alt{
+	font-size: 3em;
+	color:tomato;
+}
